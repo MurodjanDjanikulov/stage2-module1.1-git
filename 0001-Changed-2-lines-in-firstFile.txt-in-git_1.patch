@@ -1,0 +1,24 @@
+From b6cf3a9b18e71c21caa22b0a9ea10e802167db19 Mon Sep 17 00:00:00 2001
+From: Murodjan Djanikulov <murodjan.djanikulov@gmail.com>
+Date: Wed, 18 Nov 2026 23:08:04 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..ef79ee7 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++a
++a
+ 3
+ 4
+ 5
+-- 
+2.56.1.windows.1
+
